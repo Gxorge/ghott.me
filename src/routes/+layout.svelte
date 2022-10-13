@@ -1,31 +1,45 @@
 <script lang="ts">
     import '../app.scss';
+
+    let mobileMenuActive = false;
 </script>
 
-<main>
-    <nav class="navbar is-dark" aria-label="main navigation">
-        <div class="navbar-brand" style="padding-left: 340px">
+<nav class="navbar is-dark" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            <b>//</b>&nbsp; George Hotten
+        </a>
+
+        <a role="button" href="#" class="navbar-burger {mobileMenuActive ? "is-active" : ""}" aria-label="menu" aria-expanded="false" on:click={() => {mobileMenuActive = !mobileMenuActive;}}>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div class="navbar-menu {mobileMenuActive ? "is-active" : ""}">
+        <div class="navbar-end" style="padding-right: 400px">
             <a class="navbar-item" href="/">
-                <b>//</b>&zwnj; George Hotten
+                <b>/</b>&nbsp; Home
+            </a>
+
+            <a class="navbar-item" href="/">
+                <b>/</b>&nbsp; Projects
             </a>
         </div>
+    </div>
+</nav>
 
-        <div class="navbar-menu">
-            <div class="navbar-end" style="padding-right: 400px">
-                <a class="navbar-item" href="/">
-                    <b>/</b>&zwnj; Home
-                </a>
-
-                <a class="navbar-item" href="/">
-                    <b>/</b>&zwnj; Projects
-                </a>
-            </div>
-        </div>
-    </nav>
-    <container class="gweb-layout">
-        <slot />
-    </container>
+<main class="gweb-content">
+    <slot />
 </main>
+
+<footer class="footer footer-sticky">
+    <div class="content gweb-text-layout footer-text">
+        <p style="font-size: 20px;"><b>© George Hotten 2022</b></p>
+        <p style="font-size: 15px;"><a href="https://github.com/gxorge/gweb3">Check out the source code</p>
+    </div>
+</footer>
 
 <style lanbg="scss">
     .navbar-brand {

@@ -2,15 +2,46 @@
 
 $primary: #821a1b;
 
-.gweb-text-layout {
-	flex: 1;
+$footer-background-color: hsl(0, 0%, 21%);
+
+.gweb-site {
 	display: flex;
+	min-height: 100vh;
 	flex-direction: column;
+}
+
+.gweb-content {
+	flex: 1;
+}
+
+.gweb-text-layout {
 	padding: 1rem;
 	width: 100%;
-	max-width: 1024px;
+	max-width: 1140px;
 	margin: 0 auto;
 	box-sizing: border-box;
+}
+
+.content p {
+	font-size: 20px;
+}
+
+@media (min-width: 1000px) {
+	.footer-sticky {
+		position: absolute;
+		width: 100%;
+		bottom: 0;
+		overflow:hidden;
+	}
+}
+
+.footer-text {
+	color: white;
+}
+
+.footer-text :link {
+	color: white;
+	text-decoration: underline;
 }
 
 .hero-title-padding {
@@ -23,8 +54,11 @@ $primary: #821a1b;
     box-decoration-break: clone;
 }
 
-.hero-text-padding {
-    padding-left: 300px;
+
+@media (min-width: 1000px) {
+	.hero-text-padding {
+		padding-left: 300px;
+	}
 }
 
 

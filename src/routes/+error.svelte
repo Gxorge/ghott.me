@@ -3,4 +3,4 @@
     import { page }  from '$app/stores';
 </script>    
 
-<HeroTitle title="Uh oh" subtitle="Erorr code {$page.status}."/>
+<HeroTitle title="Oh snap." subtitle="Erorr code {$page.status}."/>
