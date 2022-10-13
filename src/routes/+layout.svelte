@@ -26,6 +26,10 @@
             <a class="navbar-item" href="/">
                 <b>/</b>&nbsp; Projects
             </a>
+
+            <a class="navbar-item" href="https://hotten.uk" target="_blank" rel="noopener">
+                <b>/</b>&nbsp; Hotten UK
+            </a>
         </div>
     </div>
 </nav>
