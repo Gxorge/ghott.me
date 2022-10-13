@@ -15,6 +15,6 @@
             I enjoy exploring new technology and I'm passionate about building and managing computer networks.
         </p>
         <h3><b>/</b> This website is a work in progress.</h3>
-        To visit my old website, please click <a href="https://ghott.me">here</a>.
+        So please bare with me!
     </div>
 </section>

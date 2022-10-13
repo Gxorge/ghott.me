@@ -37,7 +37,7 @@
 <footer class="footer footer-sticky">
     <div class="content gweb-text-layout footer-text">
         <p style="font-size: 20px;"><b>© George Hotten 2022</b></p>
-        <p style="font-size: 15px;"><a href="https://github.com/gxorge/gweb3">Check out the source code</p>
+        <p style="font-size: 15px;"><a href="https://github.com/gxorge/gweb3" target="_blank" rel="noopener">Check out the source code</p>
     </div>
 </footer>
 
