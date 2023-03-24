@@ -92,12 +92,9 @@ $link: #ffffff;
     box-decoration-break: clone;
 }
 
-
-@media (min-width: 1000px) {
-	.hero-text-padding {
-		padding-left: 300px;
-	}
-}
+.hero-text-padding {
+	padding-left: calc((100vw - 1920px) / 2 + 300px);
+  }
 
 
 @import '../node_modules/bulma/bulma.sass';
