@@ -22,7 +22,7 @@
 
         <h3><b>/</b> My Shenanigans</h3>
         <p class="gweb-link-black">
-            I'm not good at finishing things I started, so here is a lovely list of <a href="/projects">projects I may or may not have completed!</a>
+            I'm not good at finishing things I start, so here is a lovely list of <a href="/projects">projects I may or may not have completed!</a>
         </p>
     </div>
 </section>
