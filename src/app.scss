@@ -3,6 +3,7 @@
 $primary: #821a1b;
 
 $footer-background-color: hsl(0, 0%, 21%);
+$link: #ffffff;
 
 .gweb-site {
 	display: flex;
@@ -12,6 +13,7 @@ $footer-background-color: hsl(0, 0%, 21%);
 
 .gweb-content {
 	flex: 1;
+	min-height: calc(100vh - 15px - 100px);
 }
 
 .gweb-text-layout {
@@ -26,9 +28,13 @@ $footer-background-color: hsl(0, 0%, 21%);
 	font-size: 20px;
 }
 
+.gweb-footer {
+	height: 100px;
+	background-color: $footer-background-color;
+}
+
 @media (min-width: 1000px) {
 	.footer-sticky {
-		position: absolute;
 		width: 100%;
 		bottom: 0;
 		overflow:hidden;
@@ -37,11 +43,43 @@ $footer-background-color: hsl(0, 0%, 21%);
 
 .footer-text {
 	color: white;
+	font-size: 15px;
 }
 
-.footer-text :link {
-	color: white;
-	text-decoration: underline;
+.gweb-link-white {
+	:link {
+		color: #ffffff;
+		text-decoration: underline;
+	}
+	:hover {
+		color: #ffffff;
+		text-decoration-color: gray;
+		text-decoration-style:wavy;
+	}
+}
+
+.gweb-link-black {
+	:any-link {
+		color: #000000;
+		text-decoration: underline;
+	}
+	:hover {
+		color: #000000;
+		text-decoration-color: grey;
+		text-decoration-style:wavy;
+	}
+}
+
+.gweb-link-grey {
+	:any-link {
+		color: hsl(0deg, 0%, 21%);
+		text-decoration: underline;
+	}
+	:hover {
+		color: hsl(0deg, 0%, 21%);
+		text-decoration-color: grey;
+		text-decoration-style:wavy;
+	}
 }
 
 .hero-title-padding {

@@ -1,52 +1,39 @@
 <script lang="ts">
     import '../app.scss';
+    import { page } from '$app/stores';
 
     let mobileMenuActive = false;
 </script>
 
-<nav class="navbar is-dark" aria-label="main navigation">
-    <div class="navbar-brand">
-        <a class="navbar-item" href="/">
-            <b>//</b>&nbsp; George Hotten
-        </a>
-
-        <a role="button" href="#" class="navbar-burger {mobileMenuActive ? "is-active" : ""}" aria-label="menu" aria-expanded="false" on:click={() => {mobileMenuActive = !mobileMenuActive;}}>
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-        </a>
-    </div>
-
-    <div class="navbar-menu {mobileMenuActive ? "is-active" : ""}">
-        <div class="navbar-end" style="padding-right: 400px">
-            <a class="navbar-item" href="/">
-                <b>/</b>&nbsp; Home
-            </a>
-
-            <a class="navbar-item" href="/">
-                <b>/</b>&nbsp; Projects
-            </a>
-
-            <a class="navbar-item" href="https://hotten.uk" target="_blank" rel="noopener">
-                <b>/</b>&nbsp; Hotten UK
-            </a>
-        </div>
-    </div>
+<nav class="navbar is-dark gweb-link-white" aria-label="main navigation">
+    {#if $page.url.pathname != "/"}
+        <p style="font-size: 10px;"><a href="/">&lt home</a></p>
+    {/if}
 </nav>
 
 <main class="gweb-content">
     <slot />
 </main>
 
-<footer class="footer footer-sticky">
-    <div class="content gweb-text-layout footer-text">
-        <p style="font-size: 20px;"><b>© George Hotten 2022</b></p>
-        <p style="font-size: 15px;"><a href="https://github.com/gxorge/gweb3" target="_blank" rel="noopener">Check out the source code</p>
+<footer class="gweb-footer footer-sticky">
+    <div class="content gweb-text-layout footer-text has-text-centered">
+        <p style="font-size: 15px;"><b>© George Hotten 2023</b></p>
+        <p style="font-size: 15px;" class="gweb-link-white">
+            <a href="https://github.com/gxorge/gweb3" target="_blank" rel="noopener">source</a> &middot; 
+            <a href="https://wiki.hotten.cloud" target="_blank" rel="noopener">homelab</a> &middot; 
+            <a href="https://github.com/gxorge/" target="_blank" rel="noopener">github</a> &middot; 
+            <a href="https://hotten.uk" target="_blank" rel="noopener">hotten.uk</a>
+        </p>
     </div>
 </footer>
 
 <style lanbg="scss">
     .navbar-brand {
         color: white;
+    }
+
+    .navbar {
+        min-height: unset;
+        height: 15px;
     }
 </style>
