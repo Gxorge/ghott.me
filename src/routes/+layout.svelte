@@ -27,7 +27,7 @@
     </div>
 </footer>
 
-<style lanbg="scss">
+<style lang="scss">
     .navbar-brand {
         color: white;
     }
