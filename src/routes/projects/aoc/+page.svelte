@@ -8,7 +8,7 @@
             <b>//</b><span class="hero-title-padding">Advent of Code Solutions</span>
         </p>
         <p class="subtitle hero-text-padding aoc-hero-subtitle">
-            <b>/</b><span class="hero-subtitle-padding">The programming advent calender</span>
+            <b>/</b><span class="hero-subtitle-padding">The programming advent calendar</span>
         </p>
     </div>
 </section>
@@ -21,7 +21,7 @@
 
         <h3><b>/</b> About</h3>
         <p class="gweb-link-black">
-            <a href="https://adventofcode.com">Advent of Code</a> is a programming advent calender created by <a href="http://was.tl/">Eric Wastl</a> that consists of daily small programming puzzles for a variety of skill levels. I personally use a mix of Kotlin and Python to solve each day. I have completed every challange for 2022 and I'm working towards completing the rest of the previous year's challanges.
+            <a href="https://adventofcode.com">Advent of Code</a> is a programming advent calendar created by <a href="http://was.tl/">Eric Wastl</a> that consists of daily small programming puzzles for a variety of skill levels. I personally use a mix of Kotlin and Python to solve each day. I have completed every challange for 2022 and I'm working towards completing the rest of the previous year's challanges.
         </p>
     </div>
 </section>
