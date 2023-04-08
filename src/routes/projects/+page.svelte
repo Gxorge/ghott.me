@@ -10,6 +10,11 @@
 <section class="gweb-text-layout gweb-link-grey">
     <div class="content">
 
+        <h3><b>/</b> <a href="projects/theherobrine" target="_blank" rel="noopener">The Herobrine!</a> - 2023</h3>
+        <p>
+            The Herobrine! is my remake of an old Hive MC game-mode that was removed in their Java 2 update.
+        </p>
+
         <h3><b>/</b> <a href="projects/bubbletill" target="_blank" rel="noopener">Bubbletill</a> - 2023</h3>
         <p>
             Bubbletill is a Point of Sale solution powered by Java at the front end and Python at the backend. Why did I make this? I don't know. Its not finished and probably never will be.
