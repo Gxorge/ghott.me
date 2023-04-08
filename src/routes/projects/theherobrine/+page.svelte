@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Advent of Code Solutions | George Hotten</title>
+    <title>TheHerobrine! | George Hotten</title>
 </svelte:head>
 
 <section class="hero" style="background-color: rgb(0, 0, 0)">
@@ -26,6 +26,7 @@
             The Herobrine is currently being maintained for the <a href="https://trueog.net">TrueOG</a> network, and can be played there too.
         </p>
 
+        
         <img src="/thb-1.png" alt="The Herobrine gameplay with a survivor about to capture a shard." />
     </div>
 </section>
