@@ -30,7 +30,7 @@
             A website created with <a href="https://thomasr.me" target="_blank" rel="noopener">Thomas</a> and <a href="https://lewisakura.moe" target="_blank" rel="noopener">Lewis</a> to know when the UK's former Prime Minister, Boris Johnson, has left No 10.
         </p>
 
-        <h3><b>/</b> <a href="https://github.com/georgeatsolihull" target="_blank" rel="noopener">Solihull College Coursework</a> - 2021-2023</h3>
+        <h3><b>/</b> <a href="https://solihull.ghott.me" target="_blank" rel="noopener">Solihull College Coursework</a> - 2021-2023</h3>
         <p>
             All the coursework for my BTEC Level 3 Extended Diploma and any other random code can be found on the linked GitHub page.
         </p>
