@@ -1,3 +1,7 @@
+<script lang="ts">
+    import '$lib/HeroTitle.scss';
+</script>
+
 <svelte:head>
     <title>Advent of Code Solutions | George Hotten</title>
 </svelte:head>
