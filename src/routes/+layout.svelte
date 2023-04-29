@@ -6,7 +6,9 @@
 </script>
 
 <nav class="navbar is-dark gweb-link-white" aria-label="main navigation">
-    {#if $page.url.pathname != "/"}
+    {#if $page.url.pathname.startsWith("/projects/")}
+        <p style="font-size: 10px;"><a href="/projects">&lt back</a></p>
+    {:else if $page.url.pathname != "/"}
         <p style="font-size: 10px;"><a href="/">&lt home</a></p>
     {/if}
 </nav>
