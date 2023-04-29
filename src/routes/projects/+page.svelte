@@ -6,7 +6,7 @@
     <title>Projects | George Hotten</title>
 </svelte:head>
 
-<HeroTitle title="My Work" subtitle="With no guarantee they're finished"/>
+<HeroTitle title="My Work" subtitle="Is the project done? Is it not? Let's find out!"/>
 <section class="gweb-text-layout gweb-link-grey">
     <div class="content">
 
