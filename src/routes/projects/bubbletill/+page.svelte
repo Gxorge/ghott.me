@@ -1,5 +1,6 @@
 <script lang="ts">
     import HeroTitle from '$lib/HeroTitle.svelte';
+    import BackBreadcrum from '$lib/BackBreadcrum.svelte';
 </script>    
 
 <svelte:head>
@@ -9,12 +10,13 @@
 <HeroTitle title="Bubbletill" subtitle="A WIP EPoS Retail Solution" colour="#004494" text_colour="white"/>
 <section class="gweb-text-layout">
     <div class="content">
-        <h3><b>/</b> Quick Links</h3>
+        <BackBreadcrum/>
+        <h2>Quick Links</h2>
         <ul class="gweb-link-black" style="font-size: 20px;">
             <li>Source Code: <a href="https://github.com/bubbletill">github.com/bubbletill</a></li>
         </ul>
 
-        <h3><b>/</b> About</h3>
+        <h2>About</h2>
         <p>
             Bubbletill is a EPoS solution that aims to bring all a store's PoS needs into one suite of applications. Bubbletill's front-end applications are predominantly made in Java whilst the backend uses Python.
             <br><br>
