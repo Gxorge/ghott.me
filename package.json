@@ -1,6 +1,6 @@
 {
 	"name": "ghott.me",
-	"version": "1.0",
+	"version": "1.2",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
@@ -23,6 +23,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"bulma": "^0.9.4"
+		"gweb-bulma": "github:gxorge/bulma"
 	}
 }
