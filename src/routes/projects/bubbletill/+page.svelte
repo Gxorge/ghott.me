@@ -7,7 +7,7 @@
     <title>Bubbletill | George Hotten</title>
 </svelte:head>
 
-<HeroTitle title="Bubbletill" subtitle="A WIP EPoS Retail Solution" colour="#004494" text_colour="white"/>
+<HeroTitle title="Bubbletill" subtitle="An all-in-one retail solution" colour="#004494" text_colour="white"/>
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
@@ -18,15 +18,14 @@
 
         <h2>About</h2>
         <p>
-            Bubbletill is a EPoS solution that aims to bring all a store's PoS needs into one suite of applications. Bubbletill's front-end applications are predominantly made in Java whilst the backend uses Python.
+            Bubbletill is an all-in-one solution that aims to bring all a store's point of sale needs into one suite of applications. Bubbletill's applications are created with .NET Core 6.
             <br><br>
-            Bubbletill currently has 4 components, with more on the way:
+            Bubbletill currently has 3 components, with more on the way:
         </p>
         <ul class="gweb-link-subtle" style="font-size: 20px;">
             <li><b>Point of Sale</b> - The application that members of staff interact with to complete sales.</li>
-            <li><b>Back Office</b> -  The application that members of management interact with to view analytics, manage user accounts, view transactions and more. This application can be found on the POS devices and launched through the POS application.</li>
-            <li><b>Backend</b> -  Flask server running on the controller in each store, handing API requests.</li>
-            <li><b>Shell</b> - C# application to replace Windows Explorer on the POS devices.</li>
+            <li><b>Controller API</b> -  API for interfacing with the controller's database and services.</li>
+            <li><b>Shell</b> - Application to replace Windows Explorer on the POS devices.</li>
         </ul>
 
         <img src="/bubbletill.png" alt="Bubbletill POS sale screen." />
