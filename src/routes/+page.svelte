@@ -11,13 +11,8 @@
     <div class="content">
         <h1>Nice to meet you!</h1>
         <p>
-            I'm a student from the UK, currently studying a BTEC Level 3 Extended Diploma in Cyber Security and Networking.
+            I'm a student from the UK, about to start a bachelor's degree in Cyber Security.
             I enjoy exploring new technology and I'm passionate about building and managing computer networks.
-        </p>
-
-        <h2>Homelab</h2>
-        <p class="gweb-link-black">
-            In my free time I love to tinker with enthusiest and enterprise grade hardware to run in my home's network. A proper wiki documenting all the hardware and services I run is in the makings, and it can be found <a href="https://wiki.hotten.cloud"  target="_blank" rel="noopener">here</a>!
         </p>
 
         <h2>My Shenanigans</h2>
