@@ -31,11 +31,6 @@
             A website created with <a href="https://thomasr.me">Thomas</a> and <a href="https://lewisakura.moe">Lewis</a> to know when the UK's former Prime Minister, Boris Johnson, has left No 10.
         </p>
 
-        <h2><a href="https://solihull.ghott.me">Solihull College Coursework</a> - 2021-2023</h2>
-        <p>
-            All the coursework for my BTEC Level 3 Extended Diploma and any other random code can be found on the linked GitHub page.
-        </p>
-
         <h2><a href="/projects/uhccenter">UHC Center</a> - 2020</h2>
         <p>
             A Minecraft UHC network created with <a href="https://lewisakura.moe">Lewis</a>, built completely from in-house.
