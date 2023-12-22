@@ -36,7 +36,7 @@
             A Minecraft UHC network created with <a href="https://lewisakura.moe">Lewis</a>, built completely from in-house.
         </p>
 
-        <h2><a href="projects/aoc">Advent of Code Solutions</a> - 2015-2022</h2>
+        <h2><a href="projects/aoc">Advent of Code Solutions</a> - 2015-2023</h2>
         <p>
             All my solutions for Advent of Code 2015-2022. Not all years are finished, but are you surprised?
         </p>
