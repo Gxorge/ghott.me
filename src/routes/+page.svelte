@@ -6,12 +6,12 @@
     <title>George Hotten</title>
 </svelte:head>
 
-<HeroTitle title="George Hotten" subtitle="An aspiring Cyber Security student"/>
+<HeroTitle title="George Hotten" subtitle="An aspiring cybersecurity professional"/>
 <section class="gweb-text-layout">
     <div class="content">
         <h1>Nice to meet you!</h1>
         <p>
-            I'm a student from the UK studying a bachelor's degree in Cyber Security.
+            I'm a student from the UK studying a bachelor's degree in Cybersecurity.
             I enjoy exploring new technology and I'm passionate about building and managing computer networks.
         </p>
 
@@ -28,7 +28,7 @@
             And I'm working towards the following qualifications:
         </p>
         <ul class="gweb-link-black" style="font-size: 20px;">
-            <li>Bachelor's Degree in Cyber Security at <a href="https://aston.ghott.me">Aston University</a></li>
+            <li>Bachelor's Degree in Cybersecurity at <a href="https://aston.ghott.me">Aston University</a></li>
         </ul>
 
         <h2>My Work</h2>
