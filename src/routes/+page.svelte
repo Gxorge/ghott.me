@@ -20,7 +20,7 @@
             I have recieved the following IT-releated qualifications:
         </p>
         <ul class="gweb-link-black" style="font-size: 20px;">
-            <li>BTEC National Extended Diploma in IT at <a href="https://solihull.ghott.me">Solihull College</a> - <b>D*D*D*</b></li>
+            <li>BTEC National Extended Diploma in IT at <a href="https://solihull.georgehotten.uk">Solihull College</a> - <b>D*D*D*</b></li>
             <li>GCSE Computer Science at Light Hall School - <b>9 (A*)</b></li>
         </ul>
 
@@ -28,7 +28,7 @@
             And I'm working towards the following qualifications:
         </p>
         <ul class="gweb-link-black" style="font-size: 20px;">
-            <li>Bachelor's Degree in Cybersecurity at <a href="https://aston.ghott.me">Aston University</a></li>
+            <li>Bachelor's Degree in Cybersecurity at <a href="https://aston.georgehotten.uk">Aston University</a></li>
         </ul>
 
         <h2>My Work</h2>
