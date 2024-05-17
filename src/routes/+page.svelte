@@ -35,5 +35,10 @@
         <p class="gweb-link-black">
             Interested in what I've done? Here you can find a list of <a href="/projects">projects I may or may not have completed!</a>
         </p>
+
+        <h2>The Fire Lab</h2>
+        <p class="gweb-link-black">
+            Check out my interest in fire detection equipment at <a href="/fire">the fire lab.</a>
+        </p>
     </div>
 </section>
