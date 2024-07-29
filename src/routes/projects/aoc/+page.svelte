@@ -8,7 +8,8 @@
     <meta content="Advent of Code Solutions | George Hotten" property="og:title" />
     <meta content="All my solutions for Advent of Code 2015-2022." property="og:description" />
     <meta content="https://george.hotten.uk/aoc" property="og:url" />
-    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
+    <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
+    <meta name="theme-color" content="#0f0f23">
 </svelte:head>
 
 <header class="hero" style="background-color: rgb(15, 15, 35)">

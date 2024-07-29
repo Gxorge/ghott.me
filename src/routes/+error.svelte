@@ -4,6 +4,15 @@
     import { page }  from '$app/stores';
 </script>    
 
+<svelte:head>
+    <title>Error {$page.status}</title>
+    <meta content="Error {$page.status} | George Hotten" property="og:title" />
+    <meta content="You have linked to a page that has thrown an error {$page.status}. Clicking will send you to the home page." property="og:description" />
+    <meta content="https://george.hotten.uk/" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
+    <meta name="theme-color" content="#821a1b">
+</svelte:head>
+
 <HeroTitle title="Oh snap" subtitle="Erorr code {$page.status}"/>
 <section class="gweb-text-layout">
     <div class="content">

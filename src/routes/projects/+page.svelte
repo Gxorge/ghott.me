@@ -7,8 +7,9 @@
     <title>Projects | George Hotten</title>
     <meta content="My Work | George Hotten" property="og:title" />
     <meta content="Is the project done? Is it not? Let's find out!" property="og:description" />
-    <meta content="https://george.hotten.uk" property="og:url" />
-    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
+    <meta content="https://george.hotten.uk/projects" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
+    <meta name="theme-color" content="#821a1b">
 </svelte:head>
 
 <HeroTitle title="My Work" subtitle="Is the project done? Is it not? Let's find out!"/>
