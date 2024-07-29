@@ -5,6 +5,11 @@
 
 <svelte:head>
     <title>System Tests 2024 | Fire Lab</title>
+    <meta content="System Tests 2024 | Fire Lab" property="og:title" />
+    <meta content="Videos and descriptions of all tests of the fire lab completed in 2024." property="og:description" />
+    <meta content="https://george.hotten.uk/fire/tests" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
+    <meta name="theme-color" content="#712e01">
 </svelte:head>
 
 <HeroTitle title="Fire Lab: System Tests 2024" subtitle="Tests of the Fire Lab equipment" colour="#712e01" text_colour="white"/>

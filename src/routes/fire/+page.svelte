@@ -5,6 +5,11 @@
 
 <svelte:head>
     <title>Home | Fire Lab</title>
+    <meta content="Home | Fire Lab" property="og:title" />
+    <meta content="Documenting my passion for fire alarm and detection systems." property="og:description" />
+    <meta content="https://george.hotten.uk/fire" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
+    <meta name="theme-color" content="#712e01">
 </svelte:head>
 
 <HeroTitle title="Fire Lab" subtitle="My home's fire lab" colour="#712e01" text_colour="white"/>
