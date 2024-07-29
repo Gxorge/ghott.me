@@ -5,6 +5,10 @@
 
 <svelte:head>
     <title>Surya | George Hotten</title>
+    <meta content="Surya Real Estate | George Hotten" property="og:title" />
+    <meta content="A real estate website created for my BTEC qualification." property="og:description" />
+    <meta content="https://george.hotten.uk/surya" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <HeroTitle title="Surya Real Estate" subtitle="Made for my BTEC's Unit 28" colour="rgb(72, 95, 199)" text_colour="white"/>

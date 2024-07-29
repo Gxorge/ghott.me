@@ -5,6 +5,10 @@
 
 <svelte:head>
     <title>Is Boris Gone? | George Hotten</title>
+    <meta content="Is Boris Gone? | George Hotten" property="og:title" />
+    <meta content="A silly website to track when the UK PM Boris Johnson resigns." property="og:description" />
+    <meta content="https://george.hotten.uk/isborisgone" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <HeroTitle title="Is Boris Gone?" subtitle="Funny website to see if boris is gone yet" colour="rgba(113, 63, 18)" text_colour="white"/>

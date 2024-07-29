@@ -5,6 +5,10 @@
 
 <svelte:head>
     <title>Bubbletill | George Hotten</title>
+    <meta content="Bubbletill | George Hotten" property="og:title" />
+    <meta content="My passion project, an all-in-one retail solution." property="og:description" />
+    <meta content="https://george.hotten.uk/bubbletill" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <HeroTitle title="Bubbletill" subtitle="An all-in-one retail solution" colour="#004494" text_colour="white"/>

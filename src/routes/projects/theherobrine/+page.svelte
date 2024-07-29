@@ -5,6 +5,10 @@
 
 <svelte:head>
     <title>TheHerobrine! | George Hotten</title>
+    <meta content="TheHerobrine! | George Hotten" property="og:title" />
+    <meta content="A remake of a minigame from the Minecraft server 'The Hive'" property="og:description" />
+    <meta content="https://george.hotten.uk/theherobrine" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <header class="hero" style="background-color: rgb(0, 0, 0)">

@@ -5,6 +5,10 @@
 
 <svelte:head>
     <title>Advent of Code Solutions | George Hotten</title>
+    <meta content="Advent of Code Solutions | George Hotten" property="og:title" />
+    <meta content="All my solutions for Advent of Code 2015-2022." property="og:description" />
+    <meta content="https://george.hotten.uk/aoc" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <header class="hero" style="background-color: rgb(15, 15, 35)">

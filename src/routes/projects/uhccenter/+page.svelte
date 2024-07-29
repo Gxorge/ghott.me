@@ -5,6 +5,10 @@
 
 <svelte:head>
     <title>UHC Center | George Hotten</title>
+    <meta content="UHC Center | George Hotten" property="og:title" />
+    <meta content="A minecraft UHC network." property="og:description" />
+    <meta content="https://george.hotten.uk/uhccenter" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <HeroTitle title="UHC Center" subtitle="Fully custom Minecraft UHC Network" colour="#fe9e0e" text_colour="white"/>

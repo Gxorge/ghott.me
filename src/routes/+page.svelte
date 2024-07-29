@@ -4,6 +4,10 @@
 
 <svelte:head>
     <title>George Hotten</title>
+    <meta content="George Hotten" property="og:title" />
+    <meta content="George's personal website, find out about my education, projects, and more." property="og:description" />
+    <meta content="https://george.hotten.uk" property="og:url" />
+    <meta content="https://george.hotten.uk/favicon.ico" property="og:image" />
 </svelte:head>
 
 <HeroTitle title="George Hotten" subtitle="An aspiring cybersecurity professional"/>
