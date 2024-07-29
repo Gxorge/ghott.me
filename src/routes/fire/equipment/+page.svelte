@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>Fire Lab | George Hotten</title>
+    <title>Equipment | Fire Lab</title>
 </svelte:head>
 
 <HeroTitle title="Fire Lab: Equipment" subtitle="Equipment in the fire lab" colour="#712e01" text_colour="white"/>
@@ -19,6 +19,7 @@
             <li>GENT NANO-24 Control Panel - NANO-24 (x1)</li>
             <li>GENT S3 Voice Sounder / Red VAD / High Performance / Red Body - S3-V-VAD-HPR-R (x1)</li>
             <li>GENT S4 Manual Call Point (Resettable Plate) - S4-34805 (x1)</li>
+            <li>GENT S4 Key Switch Interface (Single Channel) - (S4-34418) (x1)</li>
         </ul>
 
         <h2>Inventory Equipment</h2>
@@ -27,6 +28,7 @@
         </p>
         <ul style="font-size: 20px;">
             <li>GENT S4 Dual Optical Heat Sensor / Voice Sounder / Red VAD / Standard Power - S4-711-V-VAD-LPR (x1)</li>
+            <li>GENT S4 CO Dual Optical Heat Sensor - S4-901 (x1)</li>
             <li>GENT Vigilon Compact Loop Card EN - COMPACT-LPC-EN (x1)</li>
         </ul>
 

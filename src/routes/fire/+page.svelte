@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>Fire Lab | George Hotten</title>
+    <title>Home | Fire Lab</title>
 </svelte:head>
 
 <HeroTitle title="Fire Lab" subtitle="My home's fire lab" colour="#712e01" text_colour="white"/>
@@ -20,6 +20,7 @@
         <p>Please use the following to navigate this section of the site:</p>
         <ul class="gweb-link-black" style="font-size: 20px;">
             <li><a href="/fire/equipment">Equipment</a></li>
+            <li><a href="/fire/tests">2024 System Tests</a></li>
         </ul>
     </div>
 </section>
