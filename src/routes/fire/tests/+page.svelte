@@ -24,7 +24,7 @@
             <li>S3 Voice Sounder / Red VAD (S3-V-VAD-HPR-R)</li>
             <li>S4 Dual Optical Heat Sensor / Voice Sounder (S4-711-V-VAD-LPR)</li>
         </ul>
-        <iframe width="1280" height="720" title="Video of the MCP and Two-stage Test - 18th July"
+        <iframe width="100%" height="720" title="Video of the MCP and Two-stage Test - 18th July"
         src="https://www.youtube.com/embed/ICve27tkMLE">
         </iframe> 
     </div>
