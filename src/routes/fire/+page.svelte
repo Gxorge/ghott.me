@@ -4,19 +4,19 @@
 </script>
 
 <svelte:head>
-    <title>Home | Fire Lab</title>
-    <meta content="Home | Fire Lab" property="og:title" />
+    <title>Home | The Fire Lab</title>
+    <meta content="Home | The Fire Lab" property="og:title" />
     <meta content="Documenting my passion for fire alarm and detection systems." property="og:description" />
     <meta content="https://george.hotten.uk/fire" property="og:url" />
     <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
     <meta name="theme-color" content="#712e01">
 </svelte:head>
 
-<HeroTitle title="Fire Lab" subtitle="My home's fire lab" colour="#712e01" text_colour="white"/>
+<HeroTitle title="The Fire Lab" subtitle="Documenting my passion for fire alarm and detection systems" colour="#712e01" text_colour="white"/>
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
-        <h1>The Fire Lab</h1>
+        <h2>About</h2>
         <p class="gweb-link-black">
             With my interest in fire detection systems, I have started dabbling with my own setup of equipment dubbed 'the fire lab'. My main interest is <a href="https://buildings.honeywell.com/gb/en/brands/our-brands/gent">Honeywell GENT</a> systems.
         </p>

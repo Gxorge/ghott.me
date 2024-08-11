@@ -14,7 +14,6 @@
 <HeroTitle title="George Hotten" subtitle="An aspiring cybersecurity professional"/>
 <section class="gweb-text-layout">
     <div class="content">
-        <h1>Nice to meet you!</h1>
         <p>
             I'm a student from the UK studying a bachelor's degree in Cybersecurity.
             I enjoy exploring new technology and I'm passionate about building and managing computer networks.
