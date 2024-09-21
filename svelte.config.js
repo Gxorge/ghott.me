@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-vercel'
+import adapter from '@sveltejs/adapter-static'
 import svpp from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
