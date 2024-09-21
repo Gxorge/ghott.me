@@ -1,13 +1,10 @@
-import adapter from '@sveltejs/adapter-static'
+import adapter from '@sveltejs/adapter-node'
 import svpp from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter({
-			pages: 'build',
-			assets: 'build',
-		}),
+		adapter: adapter(),
 		files: {
 			lib: "src/lib",
 			assets: "src/assets"
