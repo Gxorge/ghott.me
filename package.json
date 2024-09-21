@@ -11,6 +11,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-node": "^5.2.4",
 		"@sveltejs/adapter-static": "^3.0.5",
 		"sass": "^1.55.0",
 		"svelte": "^4.0.0",
@@ -25,5 +26,5 @@
 	},
 	"optionalDependencies": {
 		"@rollup/rollup-linux-x64-gnu": "4.22.4"
-	  }
+	}
 }

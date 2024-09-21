@@ -2,3 +2,6 @@ providers = ["node", "python"]
 
 [phases.build]
 cmds = ['npm run build']
+
+[start]
+cmd = 'node build'
