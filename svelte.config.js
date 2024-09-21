@@ -5,7 +5,8 @@ import svpp from 'svelte-preprocess';
 const config = {
 	kit: {
 		adapter: adapter({
-			edge: false
+			pages: 'build',
+			assets: 'build',
 		}),
 		files: {
 			lib: "src/lib",
