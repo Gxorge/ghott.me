@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-node'
+import adapter from '@sveltejs/adapter-auto'
 import svpp from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
