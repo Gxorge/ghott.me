@@ -16,7 +16,18 @@
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
-        <h2>MCP and Two-stage Test - 18th July (GENT)</h2>
+        <h2>System Test 2 - 24th October (GENT)</h2>
+        <p>This was a test of the Manual Call Point and the two-stage alert/alarm system. The signal one alert stage was configured to last 30 seconds before proceeding to signal two alarm. This test featured the following components:</p>
+        <ul style="font-size: 20px;">
+            <li>NANO-24 Control Panel (NANO-24)</li>
+            <li>S4 Manual Call Point (S4-34805)</li>
+            <li>S3 Voice Sounder / Red VAD (S3-V-VAD-HPR-R)</li>
+        </ul>
+        <iframe width="100%" height="720" title="Video of the MCP and Two-stage Test - 24th October"
+        src="https://www.youtube.com/embed/-Yb9XXnn2KQ">
+        </iframe> 
+        <br>
+        <h2>System Test 1 - 18th July (GENT)</h2>
         <p>This was a test of the Manual Call Point and the two-stage alert/alarm system. The signal one alert stage was configured to last one minute before proceeding to signal two alarm. This test featured the following components:</p>
         <ul style="font-size: 20px;">
             <li>NANO-24 Control Panel (NANO-24)</li>
