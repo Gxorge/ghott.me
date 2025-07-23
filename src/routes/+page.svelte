@@ -20,7 +20,7 @@
         </p>
 
         <h2>My Experience</h2>
-        <p class="gweb-link-black">I am currently undertaking my university placement year as an IT Technian at <a href="https://www.redbullracing.com">Red Bull Racing & Technology</a>.</p>
+        <p class="gweb-link-black">I am currently undertaking my university placement year as an IT Technician at <a href="https://www.redbullracing.com">Red Bull Racing & Technology</a>.</p>
 
         <h2>My Education</h2>
         <p>
