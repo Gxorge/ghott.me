@@ -19,13 +19,15 @@
             I enjoy exploring new technology and I'm passionate about building and managing computer networks.
         </p>
 
+        <h2>My Experience</h2>
+        <p class="gweb-link-black">I am currently undertaking my university placement year as an IT Technian at <a href="https://www.redbullracing.com">Red Bull Racing & Technology</a>.</p>
+
         <h2>My Education</h2>
         <p>
             I have recieved the following IT-releated qualifications:
         </p>
         <ul class="gweb-link-black" style="font-size: 20px;">
             <li>BTEC National Extended Diploma in IT at <a href="https://solihull.georgehotten.uk">Solihull College</a> - <b>D*D*D*</b></li>
-            <li>GCSE Computer Science at Light Hall School - <b>9 (A*)</b></li>
         </ul>
 
         <p>
