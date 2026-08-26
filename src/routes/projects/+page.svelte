@@ -6,13 +6,13 @@
 <svelte:head>
     <title>Projects | George Hotten</title>
     <meta content="My Work | George Hotten" property="og:title" />
-    <meta content="Is the project done? Is it not? Let's find out!" property="og:description" />
+    <meta content="An overview of my projects throughout the years" property="og:description" />
     <meta content="https://george.hotten.uk/projects" property="og:url" />
     <meta content="https://george.hotten.uk/favicon.png" property="og:image" />
     <meta name="theme-color" content="#821a1b">
 </svelte:head>
 
-<HeroTitle title="My Work" subtitle="Is the project done? Is it not? Let's find out!"/>
+<HeroTitle title="My Work" subtitle="An overview of my projects throughout the years"/>
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
@@ -63,9 +63,9 @@
             A Minecraft UHC network created with <a href="https://lewisakura.moe">Lewis</a>, built completely from in-house.
         </p>
 
-        <h2 class="gweb-link-black"><a href="projects/aoc">Advent of Code Solutions</a> - 2015-2023</h2>
+        <h2 class="gweb-link-black"><a href="projects/aoc">Advent of Code Solutions</a> - 2015-2024</h2>
         <p>
-            All my solutions for Advent of Code 2015-2022. Not all years are finished, but are you surprised?
+            All my solutions for Advent of Code 2015-2024. Not all years are finished, but are you surprised?
         </p>
     </div>
 </section>

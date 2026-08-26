@@ -29,7 +29,6 @@
         <h2>Quick Links</h2>
         <ul class="gweb-link-black" style="font-size: 20px;">
             <li>Source Code: <a href="https://github.com/georgeataston/cs2tp">github.com/georgeataston/cs2tp</a></li>
-            <li>Live Preview: <a href="https://crepculture.shop">crepculture.shop</a></li>
         </ul>
 
         <h2>About</h2>

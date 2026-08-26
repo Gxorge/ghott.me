@@ -20,7 +20,7 @@
         </p>
 
         <h2>My Experience</h2>
-        <p class="gweb-link-black">I am currently undertaking my university placement year as an IT Technician at <a href="https://www.redbullracing.com">Red Bull Racing & Technology</a>.</p>
+        <p class="gweb-link-black">From Sept. 2026 - Aug. 2026, I undertook my university placement year as an IT Technician at <a href="https://www.redbullracing.com">Red Bull Racing & Technology</a>. </p>
 
         <h2>My Education</h2>
         <p>
@@ -34,17 +34,17 @@
             And I'm working towards the following qualifications:
         </p>
         <ul class="gweb-link-black" style="font-size: 20px;">
-            <li>Bachelor's Degree in Cybersecurity at <a href="https://aston.georgehotten.uk">Aston University</a></li>
+            <li>Bachelor's Degree in Cybersecurity at <a href="https://aston.georgehotten.uk">Aston University</a>.</li>
         </ul>
 
         <h2>My Work</h2>
         <p class="gweb-link-black">
-            Interested in what I've done? Here you can find a list of <a href="/projects">projects I may or may not have completed!</a>
+            Here you can find <a href="/projects">a brief list of projects</a> I have completed or are in-progress.
         </p>
 
         <h2>The Fire Lab</h2>
         <p class="gweb-link-black">
-            Check out my interest in fire detection equipment at <a href="/fire">the fire lab.</a>
+            Check out my interest in fire detection equipment at <a href="/fire">the fire lab</a>.
         </p>
     </div>
 </section>
