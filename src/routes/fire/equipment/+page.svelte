@@ -17,7 +17,7 @@
     <div class="content">
         <BackBreadcrum/>
         <br>
-        <p>Last Updated: 26 August 2026</p>
+        <p>Last Updated: 4 September 2026</p>
         <h2>Active Equipment</h2>
         <p>
             The fire lab contains the current active equipment:
@@ -37,19 +37,10 @@
             <li>GENT NANO-24 Control Panel - NANO-24 (x1)</li>
             <li>GENT S4 CO Dual Optical Heat Sensor - S4-901 (x1)</li>
             <li>GENT S4 Dual Optical Heat Sensor / Voice Sounder - S4-711-V (x1)</li>
-            <li>GENT S4 Dual Optical Heat Sensor / Strobe / Voice Sounder - S4-711-ST-VO (x1)</li>
+            <li>GENT S4 Dual Optical Heat Sensor / Strobe / Voice Sounder - S4-711-ST-VO (x2)</li>
             <li>GENT S4 Mains Powered Interface (Four Channel) - S4-34440-02 (x1)</li>
             <li>GENT S4 Key Switch Interface (Single Channel) - S4-34418 (x1)</li>
             <li>GENT Vigilon Compact Loop Card EN - COMPACT-LPC-EN (x1)</li>
-        </ul>
-
-        <h2>Retired Equipment</h2>
-        <p>
-            The following items have been sold / returned:
-        </p>
-        <ul style="font-size: 20px;">
-            <li>GENT Vigilon EN54 Loop Card - VIG-LPC-EN (returned as was the wrong card type)</li>
-            <li>GENT Vigilon Compact Plus Panel - COMPACT-PLUS (returned as arrived damaged)</li>
         </ul>
     </div>
 </section>

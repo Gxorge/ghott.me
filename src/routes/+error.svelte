@@ -10,7 +10,7 @@
         <BackBreadcrum/>
         <br>
         <p class="gweb-link-black">
-            There was an error loading this page with the status code {$page.status}. If you believe this is a mistake, <a href="mailto:hello@hottentechnology.com">please get in touch.</a>
+            There was an error loading this page with the status code {$page.status}. If you believe this is a mistake, <a href="mailto:hello@ghott.me">please get in touch.</a>
         </p>
     </div>
 </section>
